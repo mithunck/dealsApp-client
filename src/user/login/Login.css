@@ -1,0 +1,9 @@
+.login-container {
+    max-width: 420px;
+    margin: 0 auto;
+    margin-top:25px;    
+}
+
+.login-form-button {
+    width: 100%;
+}

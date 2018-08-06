@@ -1,0 +1,15 @@
+.no-deals-found {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;    
+}
+
+.load-more-deals {
+    text-align: center;
+    margin-bottom: 40px;    
+}
+.deals-container {
+    max-width: 600px;
+    margin: 0 auto;    
+    margin-top: 20px; 
+}
